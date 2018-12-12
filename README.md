@@ -1,5 +1,5 @@
-# CS-532-Final-Project-Repo
-By Rebekah Dix and Joseph Fry
+# CS 532 Final Project Code Repository
+By [Rebekah Dix](https://github.com/rebekahanne) and [Joseph Fry](https://github.com/JosephPatrickFry).
 
 Download instructions:
 1. Click the green button on the upper right-corner of the screen that says "Clone or download." 
