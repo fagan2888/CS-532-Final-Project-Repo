@@ -7,5 +7,5 @@ Download instructions:
 
 This will download the entire repository. Next, un-zip the download and open the Matlab files as instructed in the tutorial. 
 
-##IMPORTANT
+## IMPORTANT
 Do not change the file structure of the un-zipped folder. Inside the folder are two folders with helper functions and data. This will automatically be called when needed from the main Matlab scripts. 
