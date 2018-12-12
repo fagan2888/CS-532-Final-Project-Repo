@@ -1,7 +1,7 @@
 # CS 532 Final Project Code Repository
 By [Rebekah Dix](https://github.com/rebekahanne) and [Joseph Fry](https://github.com/JosephPatrickFry).
 
-1. [Click here to download the whole repository]
+1. [Click here to download the whole repository](http://github.com/rebekahanne/reposCS-532-Final-Project-Repoitory/archive/master.zip)
 2. Open the .zip file just downloaded.
 3. Open the Matlab files as instructed in the tutorial. 
 
