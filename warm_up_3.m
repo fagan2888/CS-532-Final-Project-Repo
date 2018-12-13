@@ -1,8 +1,8 @@
 %% Settings and intialiation
 clear; clc;
 % add helper function folder and data folder to path
-addpath('./CS-532-Final-Project-Repo-master/CS-532-Final-Project-Repo-master/helper_funcs');
-addpath('./CS-532-Final-Project-Repo-master/CS-532-Final-Project-Repo-master/data');
+addpath('./helper_funcs');
+addpath('./data');
 
 %% Warm-up 3
 X(:,:,1) = [7 2 6 3; 2 9 7 9];
