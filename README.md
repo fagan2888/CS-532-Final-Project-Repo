@@ -6,4 +6,4 @@ By [Rebekah Dix](https://github.com/rebekahanne) and [Joseph Fry](https://github
 3. Open the Matlab files as instructed in the tutorial. 
 
 ## IMPORTANT
-Do not change the file structure of the un-zipped folder. You can either set your Matlab filepath to this folder (called CS-532-Final-Project-Repo-master when un-zipped) or move this folder to your current path. Inside the folder are two folders with helper functions and data. Do not move these folders or the files within them. These will automatically be called when needed from the main Matlab scripts. 
+Do not change the file structure of the un-zipped folder. You can either set your Matlab filepath to this folder (called CS-532-Final-Project-Repo-master when un-zipped) or move this folder to your current Matlab path. Inside the folder are two folders with helper functions and data. Do not move these folders or the files within them. These will automatically be called when needed from the main Matlab scripts. 
