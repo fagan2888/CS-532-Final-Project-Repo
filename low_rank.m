@@ -3,11 +3,7 @@ clear; clc;
 % add helper function folder and data folder to path
 addpath('./helper_funcs');
 addpath('./data');
-%% Settings and intialiation
-clear; clc;
-% add helper function folder and data folder to path
-addpath('./CS-532-Final-Project-Repo-master/CS-532-Final-Project-Repo-master/helper_funcs');
-addpath('./CS-532-Final-Project-Repo-master/CS-532-Final-Project-Repo-master/data');
+
 %% Section 1
 N = 150;
 [imgs, labels] = readMNIST('train-images-idx3-ubyte', 'train-labels-idx1-ubyte', N, 0);
