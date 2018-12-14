@@ -15,7 +15,7 @@ A_mode_3 = ndim_unfold(A, 3);
 
 %% Part 3
 %Find S
-%Make sure A equals tprod(S, U)
+%Make sure A equals tprod(S, U) 
 
 %% Part 4
 [S, U, sv] = hosvd(A);
