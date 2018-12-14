@@ -7,9 +7,9 @@ addpath('./data');
 A(:,:,1) = [1 1 0; 0 0 0; 0 1 0];
 A(:,:,2) = [0 0 0; 0 0 0; 1 0 0];
 A(:,:,3) = [1 0 0; 1 0 0; 0 1 0];
-A_mode_1 = ndim_unfold(A, 1);
-A_mode_2 = ndim_unfold(A, 2);
-A_mode_3 = ndim_unfold(A, 3);
+A_mode_1 = ???;
+A_mode_2 = ???;
+A_mode_3 = ???;
 %% Part 2
 %Find U of A_mode_1, A_mode_2, A_mode_3
 
